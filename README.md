@@ -45,6 +45,8 @@ Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 ### 博客
 
+- 淘宝前端团队：[http://taobaofed.org/](http://taobaofed.org/)
+- 京东凹凸实验室：[https://aotu.io/notes/](https://aotu.io/notes/)
 - 1024大神的博客：[https://github.com/jawil/blog/issues](https://github.com/jawil/blog/issues)
 - camsong：[https://github.com/camsong/blog/issues](https://github.com/camsong/blog/issues)
 - 小胡子哥性能专栏：[https://github.com/barretlee/performance-column/issues](https://github.com/barretlee/performance-column/issues)
@@ -54,6 +56,7 @@ Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 - Creeper：[https://github.com/creeperyang/blog/issues](https://github.com/creeperyang/blog/issues)
 - 前端精读周刊：[https://github.com/dt-fe/weekly](https://github.com/dt-fe/weekly)
 - 染陌同学的Vue源码解析：[https://github.com/answershuto/learnVue](https://github.com/answershuto/learnVue)
+- [https://github.com/livoras/blog/issues](https://github.com/livoras/blog/issues)
 
 ### Gitbook
 
@@ -62,3 +65,7 @@ Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 ### 规范
 
 阮一峰的写作规范：[https://github.com/ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide)
+
+### 好玩的网站
+
+为你的代码生成一张图片：[https://github.com/dawnlabs/carbon](https://github.com/dawnlabs/carbon)
